@@ -5,6 +5,7 @@ I'm a React Developer with a passion for building seamless, efficient, and user-
 🚀 What I'm Working On
 
 Web Development: Enhancing my expertise in Python and JavaScript to build dynamic web applications.
+
 Robotics & AI: Exploring the intersection of Robotics and Artificial Intelligence to build innovative solutions.
 
 👀 What I’m Interested In
@@ -12,6 +13,7 @@ Robotics & AI: Exploring the intersection of Robotics and Artificial Intelligenc
 I'm driven by the challenges of Robotics, AI, and the potential of Full-Stack Web Development. Always curious, I thrive in environments that push boundaries and encourage creativity.
 
 💼 Open to Collaboration
+
 Looking to collaborate on cutting-edge projects in:
 
 Robotics & AI
